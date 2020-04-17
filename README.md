@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is my first react hello world app which was built in order to get more familiar with the scaffolding and it's file structure.
+
 ## Available Scripts
 
 In the project directory, you can run:
